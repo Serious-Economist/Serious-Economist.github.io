@@ -1,0 +1,27 @@
+12
+electrical engineering
+the branch of engineering science that studies the uses of electricity and the equipment for power generation and distribution and the control of machines and communication
+circuit
+an electrical device that provides a path for electrical current to flow
+resistance
+a material's opposition to the flow of electric current
+electrical device
+a device that produces or is powered by electricity
+AC circuit
+an electrical network in which the voltage polarity and directions of current flow change continuously, and often periodically
+conduction current
+the drift of electrons in a conductor (or of electrons and holes in a semiconductor)
+closed circuit
+a complete electrical circuit around which current flows or a signal circulates
+open circuit
+an incomplete electrical circuit in which no current flows
+loop
+a length of line folded over and joined at the ends so as to form a curve or circle
+impedance
+a material's opposition to the flow of electric current
+conduction
+the passage of electricity through a conductor
+discharge
+electrical conduction through a gas in an applied electric field
+
+
